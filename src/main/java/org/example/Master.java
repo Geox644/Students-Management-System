@@ -5,3 +5,4 @@ public class Master extends Student {
         super(nume);
     }
 }
+

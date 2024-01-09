@@ -36,3 +36,4 @@ public class Student {
         preferinte.addAll(Arrays.asList(numeCursuriPreferate));
     }
 }
+

@@ -23,4 +23,3 @@ class StudentNotFoundException extends Exception {
         super(message);
     }
 }
-

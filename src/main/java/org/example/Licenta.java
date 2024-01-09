@@ -5,3 +5,4 @@ public class Licenta extends Student {
         super(nume);
     }
 }
+
